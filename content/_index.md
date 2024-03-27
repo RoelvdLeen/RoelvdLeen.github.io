@@ -125,7 +125,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+  - block: Portfolio Roel van der Leen
     id: projects
     content:
       title: Projects
