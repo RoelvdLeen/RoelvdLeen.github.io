@@ -109,7 +109,7 @@ sections:
       count: 1
       # Filter on criteria
       filters:
-        folders: post
+        folders:
         author: ""
         category: ""
         tag: ""
