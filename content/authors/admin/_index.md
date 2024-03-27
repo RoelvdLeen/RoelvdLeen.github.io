@@ -98,10 +98,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: 
+    link: https://www.hu.nl/voltijd-opleidingen/logistics-management?/?utm_source=google&utm_medium=paid_search&utm_campaign=voltijd_q1_2024&gad_source=1&gclid=CjwKCAjwh4-wBhB3EiwAeJsppJPNagpcUYFGWy4wKLTn6Y3TadZJ5D-aI4I2gQeZ8Y6zVJLbF1WKbRoCSIwQAvD_BwE
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/RoelvdLeen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/roel-van-der-leen-405b41134/
@@ -110,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: 
+    link: upload/CV Roel van der Leen.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: False
