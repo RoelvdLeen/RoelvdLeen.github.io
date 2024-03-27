@@ -110,10 +110,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV Roel van der Leen (FactX).pdf
+    link: 
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: False
 ---
 
 Mijn voornaamste kracht schuilt in mijn vermogen om zaken vanuit diverse perspectieven te benaderen. Mijn
