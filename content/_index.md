@@ -235,7 +235,6 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: r.vanderleen@factx.nl
       phone: 06 39581484
@@ -247,22 +246,18 @@ sections:
         postcode: 
         country: Netherlands
         country_code: NL
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: 
       office_hours:
-        - 'Monday to friday 09:00 to 18:00'
+        - 'Monday to Friday 09:00 to 18:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '52.0955'
+        longitude: '5.1189'  
       contact_links:
         - icon: Linkedin
           icon_pack: fab
-          name: 
+          name: Linkedin
           link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
-        - icon: 
-          icon_pack: 
-          name: 
-          link: 
         - icon: video
           icon_pack: fas
           name: Zoom Me
