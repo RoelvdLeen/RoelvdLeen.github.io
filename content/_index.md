@@ -62,18 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          title: Trainee Logistics
+        - title: Trainee Logistics
           company: DHL
           company_url: 
           company_logo: DHL
           location: Utrecht
-          date_start: '2022-01-01'
-          date_end: '2022-08-31'
+          date_start: '2022'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
               * Analysing KPI's
-    design:
       columns: '2'
   - block: accomplishments
     content:
