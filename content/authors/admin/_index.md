@@ -21,17 +21,11 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mijn voornaamste kracht schuilt in mijn vermogen om zaken vanuit diverse perspectieven te benaderen. Mijn
-analytische blik en vastberadenheid zorgen dat ik een werknemer ben waar iedere collega op kan bouwen.
-Mijn ervaring binnen de finance als ook mijn logistieke stage hebben mij doen besluiten mij als Data analist
-verder te willen ontwikkelen. Als Data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en
-daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel
-zaken eigen maak. Ook in mijn proive leven houd ik van competitieve spellen en sporten. Ik ben niet snel
-tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
+bio: I love data 
 
 # Interests to show in About widget
 interests:
@@ -67,7 +61,7 @@ skills:
         description: ''
         percent: 30
         icon: database
-        icon_pack: fas
+        icon_pack: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -122,5 +116,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mijn voornaamste kracht schuilt in mijn vermogen om zaken vanuit diverse perspectieven te benaderen. Mijn
+analytische blik en vastberadenheid zorgen dat ik een werknemer ben waar iedere collega op kan bouwen.
+Mijn ervaring binnen de finance als ook mijn logistieke stage hebben mij doen besluiten mij als Data analist
+verder te willen ontwikkelen. Als Data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en
+daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel
+zaken eigen maak. Ook in mijn proive leven houd ik van competitieve spellen en sporten. Ik ben niet snel
+tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
 {style="text-align: justify;"}
