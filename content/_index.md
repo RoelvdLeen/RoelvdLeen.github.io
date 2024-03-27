@@ -65,7 +65,7 @@ sections:
         - title: Trainee Logistics
           company: DHL
           company_url: 'https://www.dhl.com/global-en/home/our-divisions/ecommerce.html
-          company_logo: DHL
+          company_logo:
           location: Utrecht
           date_start: '2022-01-01'
           date_end: ''
