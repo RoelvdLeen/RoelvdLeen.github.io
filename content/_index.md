@@ -251,13 +251,15 @@ sections:
         - 'Monday to Friday 09:00 to 18:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '52.0955'
-        longitude: '5.1189'  
+        latitude: '52.17671'
+        longitude: '5.29074'  
       contact_links:
         - icon: Linkedin
           icon_pack: fab
           name: Linkedin
           link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
+           display:
+      header: true
         - icon: video
           icon_pack: fas
           name: Zoom Me
