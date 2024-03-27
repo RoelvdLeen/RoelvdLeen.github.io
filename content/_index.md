@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text:
-      # (add or remove contact options as necessary)
+      # Contact (add or remove contact options as necessary)
       email: r.vanderleen@factx.nl
       phone: 06 39581484
       appointment_url: 
@@ -254,9 +254,9 @@ sections:
         latitude: '52.17671'
         longitude: '5.29074'  
       contact_links:
-        - icon: Linkedin
+        - icon: 
           icon_pack: fab
-          name: Linkedin
+          name: 
           link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
            display:
       header: true
