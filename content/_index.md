@@ -125,7 +125,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+  - block: 
     id: projects
     content:
       title: Projects
@@ -161,7 +161,7 @@ sections:
       text: 
     design:
       columns: '1'
-  - block: collection
+  - block: 
     id: featured
     content:
       title: Featured Publications
@@ -171,7 +171,7 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+  - block: 
     content:
       title: Recent Publications
       text: 
