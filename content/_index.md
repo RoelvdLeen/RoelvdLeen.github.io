@@ -126,7 +126,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: 
     content:
       title: 
       filters:
