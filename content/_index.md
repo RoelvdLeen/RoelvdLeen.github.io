@@ -181,7 +181,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: 
     id: talks
     content:
       title: Recent & Upcoming Talks
