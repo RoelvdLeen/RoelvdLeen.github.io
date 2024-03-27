@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Junior Logistics Analyst
+title:Junior Logistics Analyst
 
 # Name pronunciation (optional)
-name_pronunciation: Roel van der Leen
+name_pronunciation:Roel van der Leen
 
 # Full name (for SEO)
-first_name: Roel
-last_name: van der Leen
+first_name:Roel
+last_name:van der Leen
 
 # Status emoji
 status:
@@ -20,9 +20,9 @@ superuser:
 role: 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: 
-    url: 
+organizations:FactX B.V.
+  - name:FactX B.V.
+    url: https://factx.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I love data 
@@ -104,7 +104,7 @@ social:
     link: 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/roel-van-der-leen-405b41134/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
