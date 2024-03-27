@@ -68,7 +68,7 @@ sections:
           company_logo: 
           location: Utrecht
           date_start: '2022-01-01'
-          date_end: ''
+          date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
 
