@@ -125,7 +125,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: 
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -191,7 +191,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
+  - block: 
     content:
       title: Popular Topics
     design:
