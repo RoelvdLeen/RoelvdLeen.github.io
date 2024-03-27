@@ -65,7 +65,7 @@ sections:
         - title: Trainee Logistics
           company: DHL
           company_url: 'https://www.dhl.com/global-en/home/our-divisions/ecommerce.html
-          company_logo:
+          company_logo: DHL
           location: Utrecht
           date_start: '2022-01-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
 
               * Analysing KPi's
     design:
-      columns: '2'
+      columns: 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
