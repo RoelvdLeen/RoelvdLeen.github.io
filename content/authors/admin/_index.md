@@ -25,7 +25,7 @@ organizations:
     url: https://factx.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I love data 
+bio: Data is the new tomorrow
 
 # Interests to show in About widget
 interests:
