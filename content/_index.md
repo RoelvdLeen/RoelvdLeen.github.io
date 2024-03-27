@@ -171,10 +171,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: PowerBI
+          tag: 
+        - name: Excel
+          tag: 
+        - name: SQL
+          tag:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -185,8 +187,7 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text: 
     design:
       columns: '1'
   - block: collection
@@ -195,7 +196,6 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
         featured_only: true
     design:
       columns: '2'
@@ -203,10 +203,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications].
-        {{% /callout %}}
+      text: 
       filters:
         folders:
         exclude_featured: true
