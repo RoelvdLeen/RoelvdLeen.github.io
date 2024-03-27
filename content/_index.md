@@ -125,10 +125,10 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: Portfolio Roel van der Leen
+  - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 
       filters:
         folders:
           - project
