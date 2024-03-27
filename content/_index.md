@@ -256,7 +256,7 @@ sections:
       contact_links:
         - icon: Linkedin
           icon_pack: fab
-          name: 
+          name: Linkedin 
           link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
            display:
       header: true
