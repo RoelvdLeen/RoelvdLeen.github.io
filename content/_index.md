@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-       # Contact (add or remove contact options as necessary)#
+       Contact (add or remove contact options as necessary)
       email: r.vanderleen@factx.nl
       phone: 06 39581484
       appointment_url: 
