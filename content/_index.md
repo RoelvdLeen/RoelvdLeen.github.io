@@ -99,7 +99,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: 
+  - block: collection
     id: 
     content:
       title: Recent Posts
