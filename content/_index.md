@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: 24-03-2024
-          date_start: 24-03-2024
+          date_end: 
+          date_start: 
           description: 
           icon: datacamp
           organization: Datacamp
