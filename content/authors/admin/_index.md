@@ -110,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: upload/CV Roel van der Leen.pdf
+    link: "/static/uploads/CV Roel van der Leen (FactX).pdf"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: False
@@ -118,9 +118,6 @@ highlight_name: False
 
 Mijn voornaamste kracht schuilt in mijn vermogen om zaken vanuit diverse perspectieven te benaderen. Mijn
 analytische blik en vastberadenheid zorgen dat ik een werknemer ben waar iedere collega op kan bouwen.
-Mijn ervaring binnen de finance als ook mijn logistieke stage hebben mij doen besluiten mij als Data analist
-verder te willen ontwikkelen. Als Data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en
-daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel
-zaken eigen maak. Ook in mijn proive leven houd ik van competitieve spellen en sporten. Ik ben niet snel
-tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
+
+Zowel mijn ervaring binnen de finance als mijn logistieke stage hebben mij doen besluiten mij als data analist verder te willen ontwikkelen. Als data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel zaken eigen maak. Ook in mijn persoonlijk leven hou ik van competitieve spellen en sporten. Ik ben niet snel tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
 {style="text-align: justify;"}
