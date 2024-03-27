@@ -100,13 +100,13 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: 
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 1
       # Filter on criteria
       filters:
         folders:
