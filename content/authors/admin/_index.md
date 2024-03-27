@@ -1,13 +1,13 @@
 ---
 # Display name
-title:Junior Logistics Analyst
+title: Junior Logistics Analyst
 
 # Name pronunciation (optional)
-name_pronunciation:Roel van der Leen
+name_pronunciation: Roel van der Leen
 
 # Full name (for SEO)
-first_name:Roel
-last_name:van der Leen
+first_name: Roel
+last_name: van der Leen
 
 # Status emoji
 status:
@@ -20,8 +20,8 @@ superuser:
 role: 
 
 # Organizations/Affiliations to show in About widget
-organizations:FactX B.V.
-  - name:FactX B.V.
+organizations: FactX B.V.
+  - name: FactX B.V.
     url: https://factx.nl/
 
 # Short bio (displayed in user profile at end of posts)
