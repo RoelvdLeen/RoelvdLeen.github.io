@@ -20,7 +20,7 @@ superuser:
 role: 
 
 # Organizations/Affiliations to show in About widget
-organizations: FactX B.V.
+organizations: 
   - name: FactX B.V.
     url: https://factx.nl/
 
