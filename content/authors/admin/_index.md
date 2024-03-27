@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Junior Logistics Analyst
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Roel van der Leen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Roel
+last_name: van der Leen
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: 
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,66 +25,68 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mijn voornaamste kracht schuilt in mijn vermogen om zaken vanuit diverse perspectieven te benaderen. Mijn
+analytische blik en vastberadenheid zorgen dat ik een werknemer ben waar iedere collega op kan bouwen.
+Mijn ervaring binnen de finance als ook mijn logistieke stage hebben mij doen besluiten mij als Data analist
+verder te willen ontwikkelen. Als Data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en
+daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel
+zaken eigen maak. Ook in mijn proive leven houd ik van competitieve spellen en sporten. Ik ben niet snel
+tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data analysis
+  - Power Bi
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor in Logistics
+      institution: Hogeschool Utrecht
+      year: 2023
+    - course: Assistant accountant
+      institution: Roc van Amsterdam
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Power BI
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: powerBi
+        icon_pack: 
+      - name: Excel
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: Excel
+        icon_pack: 
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Football
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 90
+        icon: Football
+        icon_pack: 
+      - name: Fantasy Sports
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: Sports
+        icon_pack: 
+      - name: NFL
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 65
+        icon: NFL
+        icon_pack:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,10 +96,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: Linkedin 
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.linkedin.com/in/roel-van-der-leen-405b41134/
+    label: Follow me on Linkedin
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
