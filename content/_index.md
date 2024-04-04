@@ -74,7 +74,6 @@ sections:
 
               * Investigated performance measurement system;
               * Gained insight into performance related to service level. 
-                      - title: Various internship experiences in HBO Logistics Management 
         - title: Various internships experiences in HBO Logistics Management 
           company: Steltix, Chargecars, Active and Bike Butler 
           company_url: ''
@@ -215,7 +214,7 @@ sections:
         - name: All
           tag: ''
         - name: PowerBI
-          tag: certificate.pdf
+          tag: 
         - name: Excel
           tag: 
         - name: SQL
