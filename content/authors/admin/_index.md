@@ -110,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: [Download mijn CV](/static/uploads/CV_Roel_van_der_Leen_FactX.pdf) 📥
+    link: 'static/uploads/CV Roel van der Leen (FactX).pdf'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: False
