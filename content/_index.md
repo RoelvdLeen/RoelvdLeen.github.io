@@ -213,9 +213,9 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: 'certificate'
+          tag: ''
         - name: PowerBI
-          tag: Deep learning
+          tag: certificate.pdf
         - name: Excel
           tag: 
         - name: SQL
