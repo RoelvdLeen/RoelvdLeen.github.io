@@ -74,30 +74,6 @@ sections:
 
               * Investigated performance measurement system;
               * Gained insight into performance related to service level.
-        - title: Various internship experiences in HBO Logistics Management 
-          company: Steltix, Chargecars, Active and Bike Butler 
-          company_url: ''
-          company_logo: 
-          location: Various locations
-          date_start: '2017-09-01'
-          date_end: '2022-01-01'
-          description: |2-
-              Responsibilities include:
-
-              * Applied theoretical concepts in practice;
-              * Contributed operationally.
-        - title: Trainee Assistant Accountant
-          company: CJ Administratie 
-          company_url: ''
-          company_logo: 
-          location: Various locations
-          date_start: '2015-09-01'
-          date_end: '2016-06-31'
-          description: |2-
-              Responsibilities include:
-
-              * Assisted with accounting tasks;
-              * Observed and assisted in preparing financial statements.  
     design:
       columns: '2'
   - block: accomplishments
