@@ -97,9 +97,27 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Introduction to Power BI'
           url: ''
+          - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/0f654a6fe4f0c20a7e03abb1e140564e4cd70f24
+          date_end: '2024-03-26'
+          date_start: '2024-03-25'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Introduction to Dax in Power BI'
+          url: ''
+          - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/f417edd30221b71ac741ee6ef5625f921b0bfc4e
+          date_end: '2024-03-27'
+          date_start: '2024-03-27'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Introduction to Statistics'
+          url: ''
     design:
       columns: '2'
-  - block: collection
+  - block: 
     id: 
     content:
       title: Recent Posts
