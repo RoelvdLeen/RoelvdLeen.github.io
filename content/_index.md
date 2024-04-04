@@ -75,7 +75,7 @@ sections:
               * Investigated performance measurement system;
               * Gained insight into performance related to service level. 
                       - title: Various internship experiences in HBO Logistics Management 
-        - title: Various internship experiences in HBO Logistics Management 
+        - title: Various internships experiences in HBO Logistics Management 
           company: Steltix, Chargecars, Active and Bike Butler 
           company_url: ''
           company_logo: 
@@ -141,6 +141,34 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Introduction to Statistics'
           url: ''
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/5e33b92e7b1b53db822e5440f68131c649d836fd
+          date_end: '2024-03-23'
+          date_start: '2024-03-23'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Introduction to data literacy'
+          url: ''
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/251e46d40e9bfdbe490b5ccd8955d910cb016839
+          date_end: '2024-03-23'
+          date_start: '2024-03-22'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Communicating Data Insights'
+          url: ''
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/f417edd30221b71ac741ee6ef5625f921b0bfc4e
+          date_end: '2024-03-22'
+          date_start: '2024-03-22'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Introduction to Data'
+          url: ''
+
     design:
       columns: '2'
   - block: 
