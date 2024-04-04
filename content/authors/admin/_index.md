@@ -89,7 +89,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'r.vanderleen@factx.nl'
+    link: '/#contact'
   - icon: Linkedin 
     icon_pack: fab'
     link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
