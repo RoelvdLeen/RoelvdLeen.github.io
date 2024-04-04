@@ -75,6 +75,7 @@ sections:
               * Investigated performance measurement system;
               * Gained insight into performance related to service level. 
                       - title: Various internship experiences in HBO Logistics Management 
+        - title: Various internship experiences in HBO Logistics Management 
           company: Steltix, Chargecars, Active and Bike Butler 
           company_url: ''
           company_logo: 
