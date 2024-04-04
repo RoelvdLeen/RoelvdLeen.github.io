@@ -213,7 +213,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: 'certificate'
         - name: PowerBI
           tag: 
         - name: Excel
