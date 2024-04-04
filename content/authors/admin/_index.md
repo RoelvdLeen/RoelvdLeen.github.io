@@ -89,7 +89,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'r.vanderleen@factx.nl'
   - icon: Linkedin 
     icon_pack: fab'
     link: 'https://www.linkedin.com/in/roel-van-der-leen-405b41134/'
@@ -110,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: "content/static/uploads/CV Roel van der Leen (FactX).pdf"
+    link: "/static/uploads/CV Roel van der Leen (FactX).pdf" 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: False
