@@ -90,7 +90,7 @@ sections:
           company: CJ Administratie 
           company_url: ''
           company_logo: 
-          location: Various locations
+          location: Amersfoort
           date_start: '2015-09-01'
           date_end: '2016-06-30'
           description: |2-
