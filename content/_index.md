@@ -215,7 +215,7 @@ sections:
         - name: All
           tag: 'certificate'
         - name: PowerBI
-          tag: 
+          tag: Deep learning
         - name: Excel
           tag: 
         - name: SQL
