@@ -147,7 +147,7 @@ sections:
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Introduction to data literacy'
+          title: 'Introduction to Data literacy'
           url: ''
         - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/251e46d40e9bfdbe490b5ccd8955d910cb016839
           date_end: '2024-03-23'
