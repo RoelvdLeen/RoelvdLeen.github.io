@@ -167,7 +167,15 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Introduction to Data'
           url: ''
-
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/4aa712fdeffb91497180955556037a96e2dd0180
+          date_end: '2024-04-05'
+          date_start: '2024-04-04'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Introduction to SQL'
+          url: ''
     design:
       columns: '2'
   - block: 
