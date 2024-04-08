@@ -176,6 +176,16 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Introduction to SQL'
           url: ''
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/course/3bfdae6d2becf7ad6c459637ddabce0fb2a005b4
+          date_end: '2024-04-08'
+          date_start: '2024-04-05'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Data Visualization in Power BI'
+          url: ''
+
     design:
       columns: '2'
   - block: 
