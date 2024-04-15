@@ -21,8 +21,8 @@ role:
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-  - name: FactX B.V.
-    url: https://factx.nl/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Data is the new tomorrow
@@ -117,5 +117,5 @@ analytische blik en vastberadenheid zorgen dat ik een werknemer ben waar iedere 
 
 Zowel mijn achtergrond in finance als mijn ervaring tijdens mijn stage in de logistiek hebben mij doen inzien dat mijn passie ligt in het werken als data analist. Hoewel ik de mogelijkheid had om accountancy te gaan studeren, koos ik ervoor om mijn horizon te verbreden. Ik besloot mij vervolgend meer te richten op data-analyse, omdat dit aspect me aansprak tijdens mijn minor binnen mijn logistieke studie.
 
-Als data trainee wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel zaken eigen maak. Ook in mijn persoonlijk leven hou ik van competitieve spellen en sporten. Ik ben niet snel tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
+Als persoon wil ik mijn ervaringen verbreden, van toegevoegde waarde zijn en daarnaast een goede leercurve doormaken. Mijn enthousiasme en competitieve drive zorgen dat ik mij snel zaken eigen maak. Ook in mijn persoonlijk leven hou ik van competitieve spellen en sporten. Ik ben niet snel tevreden en streef vaak, zij het niet altijd realistisch, naar het hoogst mogelijke resultaat.
 {style="text-align: justify;"}

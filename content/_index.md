@@ -292,7 +292,7 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: r.vanderleen@factx.nl
+      email: roelvdleen@gmail.com
       phone: 06 39581484
       address:
         street: 
